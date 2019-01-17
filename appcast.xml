@@ -1,0 +1,10 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>APX Ground Control</title>
+<item>
+<title>10.0.137</title>
+<pubDate>Thu, 17 Jan 2019 16:23:43 +0000</pubDate>
+<sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
+<enclosure length="70190495" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.137/APX_10.0.137.dmg" sparkle:edSignature="IQVUfEj7QRh61dSFWX00B/kdp+0ff+8hqWR3B7c6ygjArrSD+PkmPexjmh6jRuS7581uON9Pkt8vYrIf64oTDw==" sparkle:shortVersionString="10.0.137" sparkle:version="10.0.137" />
+<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.137.html</sparkle:releaseNotesLink></item>
+</channel></rss>

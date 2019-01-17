@@ -3,6 +3,14 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.140](https://github.com/uavos/apx-releases/releases/tag/10.0.140) (01/17/19)
+
+> Branch: `unknown`  
+Date: `01/17/19 18:21:10`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/9f4be913ec3fc76567d0f0b96e3210d90d7ac5f8...c3967a85a648d9f027ca4db8999d00d326ef2a1f)
+
+Security updates and latest firmware `01/17/19`
+
 ## [Version 10.0.139](https://github.com/uavos/apx-releases/releases/tag/10.0.139) (01/17/19)
 
 > Branch: `unknown`  

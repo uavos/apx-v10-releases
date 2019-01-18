@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.149](https://github.com/uavos/apx-releases/releases/tag/10.0.149) (01/18/19)
+
+> Branch: `master`  
+Date: `01/18/19 15:07:15`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/70e750e296ec49bdb30d97221e468cdd936a7491...33800bdbab1d0ca70396f8cef697ea25e889a067)
+
+### Bug Fixes
+* `gcs` Map overlay display fix
+
 ## [Version 10.0.148](https://github.com/uavos/apx-releases/releases/tag/10.0.148) (01/18/19)
 
 > Branch: `master`  

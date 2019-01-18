@@ -3,6 +3,16 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.152](https://github.com/uavos/apx-releases/releases/tag/10.0.152) (01/18/19)
+
+> Branch: `master`  
+Date: `01/18/19 16:17:33`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/33800bdbab1d0ca70396f8cef697ea25e889a067...3db3d4565a618cf3757435037f1a417ff4167c40)
+
+### Bug Fixes
+* DatabaseWorker slow descructor fix
+* DatabaseWorker slow descructor fix
+
 ## [Version 10.0.149](https://github.com/uavos/apx-releases/releases/tag/10.0.149) (01/18/19)
 
 > Branch: `master`  

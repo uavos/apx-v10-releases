@@ -2,25 +2,33 @@
 <channel>
 <title>APX Ground Control</title>
 <item>
+<title>10.0.141</title>
+<pubDate>Fri, 18 Jan 2019 09:55:51 +0000</pubDate>
+<sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
+<enclosure length="70190039" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.141/APX_10.0.141.dmg" sparkle:edSignature="CIxrWE/ARenAz32IPfID+CBZNRKw/ho7awJ8ABF82Rt1pK4EP0jle3nNfXxHzGYWV5sgdA5bAbgObqY5UKobAw==" sparkle:shortVersionString="10.0.141" sparkle:version="10.0.141" />
+<sparkle:deltas>
+<enclosure length="21100" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.141/update_10.0.141-10.0.140.delta" sparkle:deltaFrom="10.0.140" sparkle:edSignature="vrH9DAud8wp2AWEyOH0gGYwtvYiQdGmyT8Pgll0GxXpbvJLLKvp8f5Rv2O/lWzX2kcvdDS2KwutRFlLCQo6wBA==" sparkle:shortVersionString="10.0.141" sparkle:version="10.0.141" />
+<enclosure length="21082" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.141/update_10.0.141-10.0.139.delta" sparkle:deltaFrom="10.0.139" sparkle:edSignature="nm5x5iifWvzfiercvWoxcetxIiw1NrInxR4edRUUTuTF6hKUaMh1qG6DdfUB/wR8XgiMkpc1S40IMfa8DU0VDQ==" sparkle:shortVersionString="10.0.141" sparkle:version="10.0.141" />
+<enclosure length="21108" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.141/update_10.0.141-10.0.137.delta" sparkle:deltaFrom="10.0.137" sparkle:edSignature="If/eIS9d1V5Ubo6JygEL3Q0ey43Xtn1UpzlV3Vd5YtmvgcGNMY+0g1PEGULjjO55TJhb8IUPt8Y9vzn5S3fGCw==" sparkle:shortVersionString="10.0.141" sparkle:version="10.0.141" /></sparkle:deltas>
+<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.141.html</sparkle:releaseNotesLink></item>
+
+<item>
 <title>10.0.140</title>
-<pubDate>Thu, 17 Jan 2019 18:42:52 +0000</pubDate>
+<pubDate>Fri, 18 Jan 2019 10:09:51 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
 <enclosure length="70191650" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.140/APX_10.0.140.dmg" sparkle:edSignature="dzGMH31nwL5ErfE/6/m5d0MIjYYvelQm3Bge/fR7fsBF4zCP5Q06lnBc0tAH9PLfcZYt6QRS4gxcGLZtB4qvAA==" sparkle:shortVersionString="10.0.140" sparkle:version="10.0.140" />
-<sparkle:deltas>
-<enclosure length="21119" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.140/update_10.0.140-10.0.139.delta" sparkle:deltaFrom="10.0.139" sparkle:edSignature="oWv0IQWevwzjSKBAavNHHNf1jilYBnpiB6+OziBzedF66p/VtuOhAYi6usbEFQbqS815RwGYA4XoIptu5Mx9AA==" sparkle:shortVersionString="10.0.140" sparkle:version="10.0.140" />
-<enclosure length="21128" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.140/update_10.0.140-10.0.137.delta" sparkle:deltaFrom="10.0.137" sparkle:edSignature="fsbJTO4oV5tXW6SaTKMmYBo0h/Zu6P4djHwIm2Kvc8eDd+eTE7oVm5hcXvKPFobYhjvj3ZQQbeORySPIscbcBg==" sparkle:shortVersionString="10.0.140" sparkle:version="10.0.140" /></sparkle:deltas>
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.140.html</sparkle:releaseNotesLink></item>
 
 <item>
 <title>10.0.139</title>
-<pubDate>Thu, 17 Jan 2019 18:59:30 +0000</pubDate>
+<pubDate>Fri, 18 Jan 2019 10:09:48 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
 <enclosure length="70189854" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.139/APX_10.0.139.dmg" sparkle:edSignature="ajfJ1lHvw4cOq8A9NQCSHgHQPRJqkX0i7EtgSJ16wnlHa5KvFYspXO4G1ljxWVsOfwpsa8rzTwwHCQ5IKEKtBw==" sparkle:shortVersionString="10.0.139" sparkle:version="10.0.139" />
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.139.html</sparkle:releaseNotesLink></item>
 
 <item>
 <title>10.0.137</title>
-<pubDate>Thu, 17 Jan 2019 18:59:27 +0000</pubDate>
+<pubDate>Fri, 18 Jan 2019 10:09:45 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
 <enclosure length="70190495" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.137/APX_10.0.137.dmg" sparkle:edSignature="IQVUfEj7QRh61dSFWX00B/kdp+0ff+8hqWR3B7c6ygjArrSD+PkmPexjmh6jRuS7581uON9Pkt8vYrIf64oTDw==" sparkle:shortVersionString="10.0.137" sparkle:version="10.0.137" />
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.137.html</sparkle:releaseNotesLink></item>

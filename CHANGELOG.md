@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.153](https://github.com/uavos/apx-releases/releases/tag/10.0.153) (01/19/19)
+
+> Branch: `master`  
+Date: `01/19/19 09:44:01`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/3db3d4565a618cf3757435037f1a417ff4167c40...454f3d2ed345ef4434e9c6bdb69cf1531a299394)
+
+### Bug Fixes
+* `gcs` Map objects Z
+
 ## [Version 10.0.152](https://github.com/uavos/apx-releases/releases/tag/10.0.152) (01/18/19)
 
 > Branch: `master`  

@@ -2,26 +2,26 @@
 <channel>
 <title>APX Ground Control</title>
 <item>
+<title>10.0.154</title>
+<pubDate>Sun, 20 Jan 2019 11:06:01 +0000</pubDate>
+<sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
+<enclosure length="70179100" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.154/APX_10.0.154.dmg" sparkle:edSignature="Rn23VxQmIv/LJhfCGK0CO6RkrFUDrtE7bltG03h8mPi5S19MP4tySZAdeARA4t+/Ss61DLvO/RgLuzrsY6FQCQ==" sparkle:shortVersionString="10.0.154" sparkle:version="10.0.154" />
+<sparkle:deltas>
+<enclosure length="25206" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.154/update_10.0.154-10.0.153.delta" sparkle:deltaFrom="10.0.153" sparkle:edSignature="Xy4ZyIeig8qng2m4yMsvgMec5/cxMWfsqdJNLiNdpNBZgj1/AEGa7ETXGZFSsgQ1svAiaOTgceV35x2nHIjMBA==" sparkle:shortVersionString="10.0.154" sparkle:version="10.0.154" />
+<enclosure length="33407" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.154/update_10.0.154-10.0.152.delta" sparkle:deltaFrom="10.0.152" sparkle:edSignature="vOIWwLoEnxZA43PyfqAZkxAlRdKqsYY4lZ/JikRXndI7p4GgnBNQHxrssb4p0KUGoqA/s9TeN/O9Z2lvEnTSDg==" sparkle:shortVersionString="10.0.154" sparkle:version="10.0.154" /></sparkle:deltas>
+<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.154.html</sparkle:releaseNotesLink></item>
+
+<item>
 <title>10.0.153</title>
-<pubDate>Sat, 19 Jan 2019 10:05:24 +0000</pubDate>
+<pubDate>Sun, 20 Jan 2019 11:21:22 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
 <enclosure length="70177391" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.153/APX_10.0.153.dmg" sparkle:edSignature="5hVkadE2lEfDkzx67KZ5NiOaIp2xd3FyT5riewXY+gHWJ0O3rrnSwQdFaUzObQjnodX8kNAiIxkos+vlu5vWCA==" sparkle:shortVersionString="10.0.153" sparkle:version="10.0.153" />
-<sparkle:deltas>
-<enclosure length="29320" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.153/update_10.0.153-10.0.152.delta" sparkle:deltaFrom="10.0.152" sparkle:edSignature="09y0X+MiExId+Lg9dLtjt5ZU5NDn1kfqtYTC7c9mlTnvgVVsJIRypphYeHUCIaDgS/OQLAoecX8D/bFveyMKCA==" sparkle:shortVersionString="10.0.153" sparkle:version="10.0.153" />
-<enclosure length="45696" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.153/update_10.0.153-10.0.148.delta" sparkle:deltaFrom="10.0.148" sparkle:edSignature="DAM+Dp2Ft/YIOPgi+SgS+AmnEf6t7NM/fnbQ7foJ6YTMq0m4/Fx8Td3YYN6tijny4XLRUb8m43OAtLI00zRTBQ==" sparkle:shortVersionString="10.0.153" sparkle:version="10.0.153" /></sparkle:deltas>
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.153.html</sparkle:releaseNotesLink></item>
 
 <item>
 <title>10.0.152</title>
-<pubDate>Sat, 19 Jan 2019 10:21:08 +0000</pubDate>
+<pubDate>Sun, 20 Jan 2019 11:21:19 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
 <enclosure length="70177669" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.152/APX_10.0.152.dmg" sparkle:edSignature="vTTJyumtgqQxJ05eJvyB6u8FU6rtmVwMttxxtYqdmEqfVChACNxKYDWGGamuX0yDFZGwBgNngGuOdhPPCKiJAA==" sparkle:shortVersionString="10.0.152" sparkle:version="10.0.152" />
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.152.html</sparkle:releaseNotesLink></item>
-
-<item>
-<title>10.0.148</title>
-<pubDate>Sat, 19 Jan 2019 10:21:04 +0000</pubDate>
-<sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
-<enclosure length="70178398" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.0.148/APX_10.0.148.dmg" sparkle:edSignature="pXaPtLZym7d8VFiw+8eVEk+ySTysyXBWxJTF/I/x3EjgsZcp73YWfGB5sTpNc4ibWsA+WKa3SSAj86wQG7WkBw==" sparkle:shortVersionString="10.0.148" sparkle:version="10.0.148" />
-<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.0.148.html</sparkle:releaseNotesLink></item>
 </channel></rss>

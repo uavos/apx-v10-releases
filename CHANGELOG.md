@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.154](https://github.com/uavos/apx-releases/releases/tag/10.0.154) (01/20/19)
+
+> Branch: `master`  
+Date: `01/20/19 10:44:41`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/454f3d2ed345ef4434e9c6bdb69cf1531a299394...41ac9b4f2a66920e1e32353195f1caa8131878f8)
+
+### Performance Enhancements
+* QML map optimizations
+
 ## [Version 10.0.153](https://github.com/uavos/apx-releases/releases/tag/10.0.153) (01/19/19)
 
 > Branch: `master`  

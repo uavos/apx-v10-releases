@@ -3,6 +3,19 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.172](https://github.com/uavos/apx-releases/releases/tag/10.0.172) (01/31/19)
+
+> Branch: `master`  
+Date: `01/31/19 18:47:22`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/8d4071f8d9e6ff4c06b064cf51b1f463586ec10c...9c3566f5b285823c3b9325fedb6047022034094f)
+
+### New Features
+* development firmware files
+
+### Bug Fixes
+* segfault on app close
+* firmware flash feature
+
 ## [Version 10.0.167](https://github.com/uavos/apx-releases/releases/tag/10.0.167) (01/31/19)
 
 > Branch: `master`  

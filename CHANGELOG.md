@@ -3,6 +3,18 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.174](https://github.com/uavos/apx-releases/releases/tag/10.0.174) (02/01/19)
+
+> Branch: `master`  
+Date: `02/01/19 10:13:31`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/9c3566f5b285823c3b9325fedb6047022034094f...ad13f9fe7b46cc61e558b51f26523c351487e8f5)
+
+### New Features
+* retain main window activity
+
+### Bug Fixes
+* pawncc compiler
+
 ## [Version 10.0.172](https://github.com/uavos/apx-releases/releases/tag/10.0.172) (01/31/19)
 
 > Branch: `master`  

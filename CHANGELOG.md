@@ -3,6 +3,16 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.176](https://github.com/uavos/apx-releases/releases/tag/10.0.176) (02/04/19)
+
+> Branch: `master`  
+Date: `02/04/19 16:56:09`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/ad13f9fe7b46cc61e558b51f26523c351487e8f5...1002a6b90063081cb427f20939e6f68ee31d2ff1)
+
+### New Features
+* announcements for releases
+* slack and mailjet announcements
+
 ## [Version 10.0.174](https://github.com/uavos/apx-releases/releases/tag/10.0.174) (02/01/19)
 
 > Branch: `master`  

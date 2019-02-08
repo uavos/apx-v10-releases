@@ -3,6 +3,16 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.182](https://github.com/uavos/apx-releases/releases/tag/10.0.182) (02/08/19)
+
+> Branch: `master`  
+Date: `02/08/19 16:08:24`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/df15bd4e7c855d66d49a955da9035968f52cb482...13fdcd2899a0338740585285d76c3d5efa15761e)
+
+### Bug Fixes
+* NAV AP10 FRAM error bugfix
+* menu sections behavior
+
 ## [Version 10.0.180](https://github.com/uavos/apx-releases/releases/tag/10.0.180) (02/08/19)
 
 > Branch: `master`  

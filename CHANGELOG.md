@@ -3,6 +3,18 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.180](https://github.com/uavos/apx-releases/releases/tag/10.0.180) (02/08/19)
+
+> Branch: `master`  
+Date: `02/08/19 14:32:36`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/1002a6b90063081cb427f20939e6f68ee31d2ff1...df15bd4e7c855d66d49a955da9035968f52cb482)
+
+### New Features
+* Node firmware upload through stm32 ROM bootloader
+
+### Documentation Changes
+* documentation links update and subscribe to mailing list
+
 ## [Version 10.0.176](https://github.com/uavos/apx-releases/releases/tag/10.0.176) (02/04/19)
 
 > Branch: `master`  

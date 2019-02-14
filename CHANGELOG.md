@@ -3,6 +3,18 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.187](https://github.com/uavos/apx-releases/releases/tag/10.0.187) (02/14/19)
+
+> Branch: `master`  
+Date: `02/14/19 10:53:08`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/0b8875332ccc302d622c910a305d66817e5dc6b5...7b3268b41c9660256cb3d539135dac283b6e3335)
+
+### New Features
+* LOCAL vehicle configuration storage and share
+
+### Bug Fixes
+* map vehicle items z-order fix
+
 ## [Version 10.0.184](https://github.com/uavos/apx-releases/releases/tag/10.0.184) (02/13/19)
 
 > Branch: `master`  

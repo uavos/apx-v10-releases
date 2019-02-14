@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.189](https://github.com/uavos/apx-releases/releases/tag/10.0.189) (02/14/19)
+
+> Branch: `master`  
+Date: `02/14/19 13:52:39`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/7b3268b41c9660256cb3d539135dac283b6e3335...f5cc8f4997c6ea170713955a71220b09f3b8d4a9)
+
+### Bug Fixes
+* segfault on node actions reload
+
 ## [Version 10.0.187](https://github.com/uavos/apx-releases/releases/tag/10.0.187) (02/14/19)
 
 > Branch: `master`  

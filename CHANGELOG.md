@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.224](https://github.com/uavos/apx-releases/releases/tag/10.0.224) (02/23/19)
+
+> Branch: `master`  
+Date: `02/23/19 12:11:49`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/5d3b8aa7935985017247f937f71485f7c77d229a...f4414059d6455bad1ad3f857aa4f0676b5128cd0)
+
+### Bug Fixes
+* node firmware update timeouts
+
 ## [Version 10.0.192](https://github.com/uavos/apx-releases/releases/tag/10.0.192) (02/18/19)
 
 > Branch: `master`  

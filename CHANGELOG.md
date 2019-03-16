@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.237](https://github.com/uavos/apx-releases/releases/tag/10.0.237) (03/16/19)
+
+> Branch: `master`  
+Date: `03/16/19 19:58:16`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/3923665b7039efd58fa72fcd407fbd442925b49b...5b113724a0f23bcafcc46ba2ebadea4fd5260465)
+
+### New Features
+* controls and flight modes widget
+
 ## [Version 10.0.235](https://github.com/uavos/apx-releases/releases/tag/10.0.235) (03/16/19)
 
 > Branch: `master`  

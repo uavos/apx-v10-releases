@@ -3,6 +3,16 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.232](https://github.com/uavos/apx-releases/releases/tag/10.0.232) (03/16/19)
+
+> Branch: `master`  
+Date: `03/16/19 01:03:29`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/6b80c693b1c04d62edcd032fd78f968440fb4e61...b3d971aad4da73127e53ec9848fd231143661de0)
+
+### Bug Fixes
+* data values types conversion bugfix (hex)
+* signals widget NaN check
+
 ## [Version 10.0.229](https://github.com/uavos/apx-releases/releases/tag/10.0.229) (02/25/19)
 
 > Branch: `master`  

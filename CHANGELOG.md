@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.235](https://github.com/uavos/apx-releases/releases/tag/10.0.235) (03/16/19)
+
+> Branch: `master`  
+Date: `03/16/19 10:08:21`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/b3d971aad4da73127e53ec9848fd231143661de0...3923665b7039efd58fa72fcd407fbd442925b49b)
+
+### Performance Enhancements
+* graphics optimizations
+
 ## [Version 10.0.232](https://github.com/uavos/apx-releases/releases/tag/10.0.232) (03/16/19)
 
 > Branch: `master`  

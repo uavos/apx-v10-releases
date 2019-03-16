@@ -1,0 +1,2 @@
+#### Performance Enhancements
+* graphics optimizations

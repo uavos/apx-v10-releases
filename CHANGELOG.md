@@ -3,6 +3,18 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.240](https://github.com/uavos/apx-releases/releases/tag/10.0.240) (03/17/19)
+
+> Branch: `master`  
+Date: `03/17/19 09:58:39`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/5b113724a0f23bcafcc46ba2ebadea4fd5260465...9e12a78a023983fb0bc4998080cb681804961281)
+
+### New Features
+* nodes save edited config
+
+### Bug Fixes
+* config editors for arrays arrange and grouping (ports, controls, gpio, etc)
+
 ## [Version 10.0.237](https://github.com/uavos/apx-releases/releases/tag/10.0.237) (03/16/19)
 
 > Branch: `master`  

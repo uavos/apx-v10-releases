@@ -3,6 +3,19 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.243](https://github.com/uavos/apx-releases/releases/tag/10.0.243) (03/19/19)
+
+> Branch: `master`  
+Date: `03/19/19 03:09:16`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/9e12a78a023983fb0bc4998080cb681804961281...f8b82312d8a72db6ccb273c483eacfdb583ca23e)
+
+### New Features
+* `gcs` numbers sets share
+
+### Bug Fixes
+* possible segfault crash fix
+* vehicle configs offline edit and save
+
 ## [Version 10.0.240](https://github.com/uavos/apx-releases/releases/tag/10.0.240) (03/17/19)
 
 > Branch: `master`  

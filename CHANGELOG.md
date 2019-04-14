@@ -3,6 +3,18 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.0.252](https://github.com/uavos/apx-releases/releases/tag/10.0.252) (04/14/19)
+
+> Branch: `release`  
+Date: `04/14/19 17:54:09`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/f8b82312d8a72db6ccb273c483eacfdb583ca23e...773d847c5a65050c1682a4425222f8bf004bdb0a)
+
+### New Features
+* Qt 5.12.2 upgrade
+
+### Bug Fixes
+* numbers editor dialog sets
+
 ## [Version 10.0.243](https://github.com/uavos/apx-releases/releases/tag/10.0.243) (03/19/19)
 
 > Branch: `master`  

@@ -3,6 +3,18 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.3](https://github.com/uavos/apx-releases/releases/tag/10.1.3) (04/17/19)
+
+> Branch: `release`  
+Date: `04/17/19 12:38:03`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/773d847c5a65050c1682a4425222f8bf004bdb0a...ae7bf5b6d688cc7fd6baf39859349a89e80fd42c)
+
+### New Features
+* Heli electric tail control through ctr_steering
+
+### Bug Fixes
+* possible segfault fix on UDP datagram reads by datalink discovery
+
 ## [Version 10.0.252](https://github.com/uavos/apx-releases/releases/tag/10.0.252) (04/14/19)
 
 > Branch: `release`  

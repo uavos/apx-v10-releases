@@ -3,6 +3,26 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.13](https://github.com/uavos/apx-releases/releases/tag/10.1.13) (05/22/19)
+
+> Branch: `release`  
+Date: `05/22/19 23:59:24`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/ae7bf5b6d688cc7fd6baf39859349a89e80fd42c...3a53ac41c7b819784d2fbb286ddf308b7efa44a6)
+
+### New Features
+* Qt 5.12.3 upgrade
+* SDK headers and package
+* Qt upgrade and SDK package
+
+### Bug Fixes
+* SQUAWK update makes vehicle inaccessible (closes #38)
+* map UAV display with extreme attitude angles
+* `gcs` Commands widget buttons enabled behavior
+
+### Comments
+`feat: SDK headers and package`  
+Add sdk package
+
 ## [Version 10.1.3](https://github.com/uavos/apx-releases/releases/tag/10.1.3) (04/17/19)
 
 > Branch: `release`  

@@ -3,6 +3,16 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.28](https://github.com/uavos/apx-releases/releases/tag/10.1.28) (06/11/19)
+
+> Branch: `release`  
+Date: `06/11/19 21:28:42`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/3a53ac41c7b819784d2fbb286ddf308b7efa44a6...bb65870fac4257e6f7b09f73b2ac3b24746ecde5)
+
+### New Features
+* New APXFW firmware file format (bundle)
+* CSV telemetry export (closes #55)
+
 ## [Version 10.1.13](https://github.com/uavos/apx-releases/releases/tag/10.1.13) (05/22/19)
 
 > Branch: `release`  

@@ -3,6 +3,22 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.37](https://github.com/uavos/apx-releases/releases/tag/10.1.37) (06/12/19)
+
+> Branch: `release`  
+Date: `06/12/19 22:13:10`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/bb65870fac4257e6f7b09f73b2ac3b24746ecde5...3575c763bffe5edb8733f21c61a5d735daeccdc0)
+
+### Bug Fixes
+* GCS console commands (closes #46)
+* Another segfault fix on UDP discovery read (closes #44)
+* ghanta RS232 driver power off until configured (closes uavos/apx-releases#24)
+* IFC AP10 RS422x2 TX driver turn on when configured (closes uavos/apx-releases#9)
+
+### Comments
+`fix: ghanta RS232 driver power off until configured (closes uavos/apx-releases#24)`  
+RS232 was always on after reset. Now it is off, but turned on when RS232 configured.
+
 ## [Version 10.1.28](https://github.com/uavos/apx-releases/releases/tag/10.1.28) (06/11/19)
 
 > Branch: `release`  

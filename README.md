@@ -5,6 +5,10 @@ See http://docs.uavos.com for more details.
 
 Latest release can be downloaded [here](https://github.com/uavos/apx-releases/releases/latest).
 
+## Issues reporting
+
+All `issues`, `bugs` and `feature requests` can be reported here: [`apx-releases`](https://github.com/uavos/apx-releases/issues)
+
 ## Contents
 
  * [Releases](https://github.com/uavos/apx-releases/releases) - Software downloads

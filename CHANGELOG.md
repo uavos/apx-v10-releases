@@ -3,6 +3,17 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.41](https://github.com/uavos/apx-releases/releases/tag/10.1.41) (06/14/19)
+
+> Branch: `release`  
+Date: `06/14/19 14:57:00`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/3575c763bffe5edb8733f21c61a5d735daeccdc0...ee74485e5e69876e3646a0d7f01d9b258d5a87b1)
+
+### Bug Fixes
+* IFC AP10 ADC configuration (closes [`issue 6`](http://github.com/uavos/apx-releases/issues/6))
+* IFC AP9 PWM output and Mandala var extractor fix (closes [`issue 1`](http://github.com/uavos/apx-releases/issues/1))
+* ADC for ghanta and xhawk (closes [`issue 5`](http://github.com/uavos/apx-releases/issues/5))
+
 ## [Version 10.1.37](https://github.com/uavos/apx-releases/releases/tag/10.1.37) (06/12/19)
 
 > Branch: `release`  

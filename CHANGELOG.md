@@ -3,6 +3,34 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.49](https://github.com/uavos/apx-releases/releases/tag/10.1.49) (06/16/19)
+
+> Branch: `release`  
+Date: `06/16/19 20:52:18`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/ee74485e5e69876e3646a0d7f01d9b258d5a87b1...8e09b9e920e401d2c391127b414d8587da9e6661)
+
+### New Features
+* ADC bias and multiplier configuration parameters (closes [`issue 27`](http://github.com/uavos/apx-releases/issues/27))
+* Shiva gimbal default control mode - 'speed' option (closes [`issue 25`](http://github.com/uavos/apx-releases/issues/25))
+* GCS overridable main layout QML (closes [`issue 10`](http://github.com/uavos/apx-releases/issues/10))
+* GCS Map support for external tile providers (closes [`issue 11`](http://github.com/uavos/apx-releases/issues/11))
+
+### Bug Fixes
+* GCS mission auto-shot by distance (closes [`issue 13`](http://github.com/uavos/apx-releases/issues/13))
+
+### Comments
+`feat: ADC bias and multiplier configuration parameters (closes [`issue 27`](http://github.com/uavos/apx-releases/issues/27))`  
+Value written to `bind` variable equals `adc_voltage * mult + bias`. MCU reboot is needed when configuration changes.
+
+`fix: GCS mission auto-shot by distance (closes [`issue 13`](http://github.com/uavos/apx-releases/issues/13))`  
+Auto shot start/stop is controlled now via Waypoint/Actions/Shot setting. When started, the Auto Shot distance must be non-zero.
+
+`feat: GCS overridable main layout QML (closes [`issue 10`](http://github.com/uavos/apx-releases/issues/10))`  
+`GroundControl.qml` source file is included in SDK and can be put in `Documents/UAVOS/Plugins` to override and customize the main window contents. The plugins pathh is now in search paths for QML engine.
+
+`feat: GCS Map support for external tile providers (closes [`issue 11`](http://github.com/uavos/apx-releases/issues/11))`  
+The provider can be selected through `Tools/Tile Loader`. The GCS plugin subclassing QGeoServiceProviderFactory could be loaded from `Documents/UAVOS/Plugins` and provide Map tiles when selected in Tools menu.
+
 ## [Version 10.1.41](https://github.com/uavos/apx-releases/releases/tag/10.1.41) (06/14/19)
 
 > Branch: `release`  

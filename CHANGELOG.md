@@ -3,6 +3,19 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.53](https://github.com/uavos/apx-releases/releases/tag/10.1.53) (06/20/19)
+
+> Branch: `release`  
+Date: `06/20/19 19:37:32`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/8e09b9e920e401d2c391127b414d8587da9e6661...5abd1720b217e30ce3debc20434fba2be9e25672)
+
+### Bug Fixes
+* GCS sites plugin loader map items type mismatch
+* QML main layout override path bug
+
+### Performance Enhancements
+* Qt libs upgrade 5.13.0
+
 ## [Version 10.1.49](https://github.com/uavos/apx-releases/releases/tag/10.1.49) (06/16/19)
 
 > Branch: `release`  

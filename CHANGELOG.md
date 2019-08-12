@@ -3,6 +3,41 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.154](https://github.com/uavos/apx-releases/releases/tag/10.1.154) (08/12/19)
+
+> Branch: `release`  
+Date: `08/12/19 10:10:28`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/5abd1720b217e30ce3debc20434fba2be9e25672...a731468361d286c80a841a70882fe7694a600980)
+
+### New Features
+* Data protocols abstraction
+* KML file display on map
+* Stratosphere flight controls upgrade based on HiDRONE flights
+* ghanta node GPIO extension (closes [`issue 50`](http://github.com/uavos/apx-releases/issues/50))
+
+### Bug Fixes
+* sites plugin map items mouse events
+* Commands widget UI scaling (closes [`issue 37`](http://github.com/uavos/apx-releases/issues/37))
+* binding loop removal for commands widget (closes [`issue 44`](http://github.com/uavos/apx-releases/issues/44))
+* GCS app close cleanup errors
+* gcs SDK include paths replicate project tree
+
+### Performance Enhancements
+* Refactoring of streaming plugin, Merge pull request #58 from uavos/video
+
+### Comments
+**perf: Refactoring of streaming plugin, Merge pull request #58 from uavos/video**
+
+Refactoring of streaming plugin
+
+**kmloverlay: move map to center of overlay**
+
+Add dialog for open files
+
+**streaming: automatically reconnect, if some settings changed**
+
+fix unnecessary unref
+
 ## [Version 10.1.53](https://github.com/uavos/apx-releases/releases/tag/10.1.53) (06/20/19)
 
 > Branch: `release`  

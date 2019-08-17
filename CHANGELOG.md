@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.155](https://github.com/uavos/apx-releases/releases/tag/10.1.155) (08/17/19)
+
+> Branch: `release`  
+Date: `08/17/19 02:45:22`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/a731468361d286c80a841a70882fe7694a600980...2d8b87d333381c85f0897b9498848c92f4449b7b)
+
+### Bug Fixes
+* linux distro upgrade to `bionic` (closes [`issue 52`](http://github.com/uavos/apx-releases/issues/52))
+
 ## [Version 10.1.154](https://github.com/uavos/apx-releases/releases/tag/10.1.154) (08/12/19)
 
 > Branch: `release`  

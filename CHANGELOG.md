@@ -3,6 +3,19 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.190](https://github.com/uavos/apx-releases/releases/tag/10.1.190) (09/03/19)
+
+> Branch: `release`  
+Date: `09/03/19 22:02:49`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/00b472962d2ef062b4ee82aa903b0dc27b430fa1...59017cfaa101715760856da335e46b44088ccf5c)
+
+### New Features
+* telemetry reader geo path display on map (closes [`issue 60`](http://github.com/uavos/apx-releases/issues/60))
+
+### Bug Fixes
+* `revert` button title for nodes
+* VPN support config files fix
+
 ## [Version 10.1.185](https://github.com/uavos/apx-releases/releases/tag/10.1.185) (08/31/19)
 
 > Branch: `release`  

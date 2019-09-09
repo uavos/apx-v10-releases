@@ -3,6 +3,18 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.199](https://github.com/uavos/apx-releases/releases/tag/10.1.199) (09/09/19)
+
+> Branch: `release`  
+Date: `09/09/19 17:11:50`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/59017cfaa101715760856da335e46b44088ccf5c...4afcf63a93ecb86a3816941a3ab7f78e28348c3d)
+
+### New Features
+* UAV travelled path display on map
+
+### Bug Fixes
+* Linux version video plugin (closes [`issue 52`](http://github.com/uavos/apx-releases/issues/52))
+
 ## [Version 10.1.190](https://github.com/uavos/apx-releases/releases/tag/10.1.190) (09/03/19)
 
 > Branch: `release`  

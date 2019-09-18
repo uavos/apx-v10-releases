@@ -3,6 +3,22 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.216](https://github.com/uavos/apx-releases/releases/tag/10.1.216) (09/18/19)
+
+> Branch: `release`  
+Date: `09/18/19 08:19:15`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/4afcf63a93ecb86a3816941a3ab7f78e28348c3d...fa0c0bc87969d04f2408c5013e1cea406bd6c5b0)
+
+### New Features
+* total travel distance display in telemetry reader
+
+### Bug Fixes
+* possible segfault fixes on telemetry load
+
+### Performance Enhancements
+* vehicle travel path display improvements
+* Telemetry loader no freeze UI
+
 ## [Version 10.1.199](https://github.com/uavos/apx-releases/releases/tag/10.1.199) (09/09/19)
 
 > Branch: `release`  

@@ -2,34 +2,34 @@
 <channel>
 <title>APX Ground Control</title>
 <item>
+<title>10.1.216</title>
+<pubDate>Wed, 18 Sep 2019 08:47:03 +0000</pubDate>
+<sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
+<enclosure length="102203446" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.216/APX_Ground_Control-10.1.216-x86_64.dmg" sparkle:edSignature="2LHSKzPx52Gj/MQP/JdmN8cH+0pr0+m5thhljy4foLnFAb4LfaeHhlelb+gB9o7FzijTH/giP4uXX/zyXZUbDQ==" sparkle:shortVersionString="10.1.216" sparkle:version="10.1.216" />
+<sparkle:deltas>
+<enclosure length="241724" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.216/update_dmg-10.1.216-10.1.199.delta" sparkle:deltaFrom="10.1.199" sparkle:edSignature="qKdqWlSDlX//n/hK45sTl8a6/qwKGAIH6ktaCQCzXWqOVCFt/SL0YH1j6mp9N66V1YgoErdpVqoKXBUSvKfgBA==" sparkle:shortVersionString="10.1.216" sparkle:version="10.1.216" />
+<enclosure length="275912" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.216/update_dmg-10.1.216-10.1.190.delta" sparkle:deltaFrom="10.1.190" sparkle:edSignature="UP19e/qJyDshBWhL/gH8TWqT3ReQlhehdpM6A21iXi+7a7LPOdxONKC9l8awbC6D7tGN45k9M8+BM+0QJWQODg==" sparkle:shortVersionString="10.1.216" sparkle:version="10.1.216" />
+<enclosure length="282272" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.216/update_dmg-10.1.216-10.1.185.delta" sparkle:deltaFrom="10.1.185" sparkle:edSignature="nGtm2cRb9dhYsWRl7ksONyHBKbhWdMRgFKNuQB7xZCYP8lB/+AFIaRdU0QEWW9/Cf4fzeyii0ufS8BJnAc3xCA==" sparkle:shortVersionString="10.1.216" sparkle:version="10.1.216" /></sparkle:deltas>
+<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.1.216.html</sparkle:releaseNotesLink></item>
+
+<item>
 <title>10.1.199</title>
-<pubDate>Mon, 09 Sep 2019 17:40:01 +0000</pubDate>
+<pubDate>Wed, 18 Sep 2019 09:14:18 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
 <enclosure length="102194085" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.199/APX_Ground_Control-10.1.199-x86_64.dmg" sparkle:edSignature="Nijlm26wy8L2Q4AIsKYdGhJK3daWSeRsFkKDQT/BIcHwnopl3cGJ01ibxwH+2pPmNxjNK6rEaQQBa9LvKEG4Bg==" sparkle:shortVersionString="10.1.199" sparkle:version="10.1.199" />
-<sparkle:deltas>
-<enclosure length="139445" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.199/update_dmg-10.1.199-10.1.190.delta" sparkle:deltaFrom="10.1.190" sparkle:edSignature="DR6r3dBPGSZshsGy/8wVgPbNWrREVYP3SGZqfffWq+q8df8W2mNy5Cy+5Uwj7IsEltHJyFQwU35Tpy5Z2bXjBw==" sparkle:shortVersionString="10.1.199" sparkle:version="10.1.199" />
-<enclosure length="159649" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.199/update_dmg-10.1.199-10.1.185.delta" sparkle:deltaFrom="10.1.185" sparkle:edSignature="ZYzLzxUDYkeDngGpT8a20jyVqKD7rXH1zHUtW0ewgIlHaKMnKSSB8ZvJ7Moae9ZxmiFrr0OzARhK5zSJd5JhBw==" sparkle:shortVersionString="10.1.199" sparkle:version="10.1.199" />
-<enclosure length="429425" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.199/update_dmg-10.1.199-10.1.165.delta" sparkle:deltaFrom="10.1.165" sparkle:edSignature="jqXSlG4l15QRlFa3wbuDSWHNs4uXU2L9aZqKWCml6ykk21KNpcLrhHiE4G8mDP3ActXb1C3YbSQ96RSUGM7gCQ==" sparkle:shortVersionString="10.1.199" sparkle:version="10.1.199" /></sparkle:deltas>
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.1.199.html</sparkle:releaseNotesLink></item>
 
 <item>
 <title>10.1.190</title>
-<pubDate>Mon, 09 Sep 2019 18:07:11 +0000</pubDate>
+<pubDate>Wed, 18 Sep 2019 09:14:14 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
 <enclosure length="102200117" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.190/APX_Ground_Control-10.1.190-x86_64.dmg" sparkle:edSignature="rBaLIT/ZyRx2rHqY+nTwthRXblgxIpP58xhs8gS45a60IEe6/L76JY91Eavxu6RgVC6YnvYN7ayRHBSg6S87Dw==" sparkle:shortVersionString="10.1.190" sparkle:version="10.1.190" />
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.1.190.html</sparkle:releaseNotesLink></item>
 
 <item>
 <title>10.1.185</title>
-<pubDate>Mon, 09 Sep 2019 18:07:07 +0000</pubDate>
+<pubDate>Wed, 18 Sep 2019 09:14:09 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
 <enclosure length="102211366" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.185/APX_Ground_Control-10.1.185-x86_64.dmg" sparkle:edSignature="hLCyWe8CHtTOh3IWW6zQxNyefMUkCl/XAAWpeA+/qJQzQsBN6uVVY1z+JgTJEW1bphsmbZ1hMwrP1wlpQnShDA==" sparkle:shortVersionString="10.1.185" sparkle:version="10.1.185" />
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.1.185.html</sparkle:releaseNotesLink></item>
-
-<item>
-<title>10.1.165</title>
-<pubDate>Mon, 09 Sep 2019 18:06:59 +0000</pubDate>
-<sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
-<enclosure length="102175422" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.1.165/APX_Ground_Control-10.1.165-x86_64.dmg" sparkle:edSignature="zlqHMKpM7jmzdQBaIskQckJshgHgTVUYpx6VeBhAJ51N/YDnrGHWsVqpCYtvoyiwPsURRS7P3LTDjuZJBH5UDQ==" sparkle:shortVersionString="10.1.165" sparkle:version="10.1.165" />
-<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.1.165.html</sparkle:releaseNotesLink></item>
 </channel></rss>

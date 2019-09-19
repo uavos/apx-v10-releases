@@ -3,6 +3,18 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.218](https://github.com/uavos/apx-releases/releases/tag/10.1.218) (09/19/19)
+
+> Branch: `release`  
+Date: `09/19/19 10:00:19`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/fa0c0bc87969d04f2408c5013e1cea406bd6c5b0...4c135947f62cd012c7f2b0a9eeabe3d8df904ee9)
+
+### Bug Fixes
+* default data sets for GCS first time launch (closes [`issue 63`](http://github.com/uavos/apx-releases/issues/63))
+
+### Documentation Changes
+* Docs site updates (simulation)
+
 ## [Version 10.1.216](https://github.com/uavos/apx-releases/releases/tag/10.1.216) (09/18/19)
 
 > Branch: `release`  

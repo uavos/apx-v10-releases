@@ -3,6 +3,20 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.1.229](https://github.com/uavos/apx-releases/releases/tag/10.1.229) (09/24/19)
+
+> Branch: `release`  
+Date: `09/24/19 15:15:19`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/4c135947f62cd012c7f2b0a9eeabe3d8df904ee9...c07084567035dfbd2d5e0a58840fc4e62bb23bc7)
+
+### New Features
+* Blackbox plugin support import from file
+* GCS plugins dependency parameters to control load sequence (closes [`issue 65`](http://github.com/uavos/apx-releases/issues/65))
+
+### Bug Fixes
+* Blackbox NAV AP10 refactoring
+* xplane moved installation path fix
+
 ## [Version 10.1.218](https://github.com/uavos/apx-releases/releases/tag/10.1.218) (09/19/19)
 
 > Branch: `release`  

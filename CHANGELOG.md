@@ -3,6 +3,29 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.75](https://github.com/uavos/apx-releases/releases/tag/10.2.75) (10/29/19)
+
+> Branch: `master`  
+Date: `10/29/19 12:33:49`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/c07084567035dfbd2d5e0a58840fc4e62bb23bc7...681626cec990a05352758e6d78b8a3c406d84998)
+
+### New Features
+* Telemetry database maintenance, empty trash, reset cache, etc.
+* Instruments container for plugins
+* mission edit tools and UAV commands UI improvements
+* camera gimbal target display on map
+* map scale sign clickable to change view mode to show distance between map clicked points
+* travel path distance display and map info area (closes [`issue 71`](http://github.com/uavos/apx-releases/issues/71))
+* global application progress display
+
+### Bug Fixes
+* terminal auto scroll updates (closes [`issue 67`](http://github.com/uavos/apx-releases/issues/67))
+* Pawn compiler enum values definitions
+
+### Optimizations
+* GCS layout refactoring
+* Qt 5.13.1 upgrade
+
 ## [Version 10.1.229](https://github.com/uavos/apx-releases/releases/tag/10.1.229) (09/24/19)
 
 > Branch: `release`  

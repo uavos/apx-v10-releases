@@ -3,6 +3,15 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.117](https://github.com/uavos/apx-releases/releases/tag/10.2.117) (10/31/19)
+
+> Branch: `master`  
+Date: `10/31/19 15:51:41`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/e1402f7979fdf17eb50026006074e597de028f0d...ae7af60dbdb6ecd4e660e3fc40a533a5fa722b70)
+
+### Bug Fixes
+* MacOS app auto update fix
+
 ## [Version 10.2.115](https://github.com/uavos/apx-releases/releases/tag/10.2.115) (10/31/19)
 
 > Branch: `master`  

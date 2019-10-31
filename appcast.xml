@@ -2,9 +2,9 @@
 <channel>
 <title>APX Ground Control</title>
 <item>
-<title>10.2.117</title>
-<pubDate>Thu, 31 Oct 2019 16:11:41 +0000</pubDate>
+<title>10.2.118</title>
+<pubDate>Thu, 31 Oct 2019 16:48:38 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8.0</sparkle:minimumSystemVersion>
-<enclosure length="96850973" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.117/APX_Ground_Control-10.2.117-macos-x86_64.dmg" sparkle:edSignature="V26BQKRZPJ32OyRG+2Xd7D9GUM8TNyNcc9/k9x78Sh0Hr+R8kp7w4XGbHSjORq0tn9F/FBbzkrB11nScKwqKAQ==" sparkle:shortVersionString="10.2.117" sparkle:version="10.2.117" />
-<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.2.117.html</sparkle:releaseNotesLink></item>
+<enclosure length="97129435" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.118/APX_Ground_Control-10.2.118-macos-x86_64.dmg" sparkle:edSignature="BCaEQMsP7GaxeDf9Xy37s9LmakqXbrzOtCgP9edyKILweLyuTwsMSkAUZR0HuuCSObnMz9Ad6Sb+61ahaB1FBg==" sparkle:shortVersionString="10.2.118" sparkle:version="10.2.118" />
+<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.2.118.html</sparkle:releaseNotesLink></item>
 </channel></rss>

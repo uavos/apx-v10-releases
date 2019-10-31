@@ -3,6 +3,21 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.115](https://github.com/uavos/apx-releases/releases/tag/10.2.115) (10/31/19)
+
+> Branch: `master`  
+Date: `10/31/19 14:23:44`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/681626cec990a05352758e6d78b8a3c406d84998...e1402f7979fdf17eb50026006074e597de028f0d)
+
+### New Features
+* language translations support (closes [`issue 80`](http://github.com/uavos/apx-releases/issues/80))
+* Linux AppImage auto update (closes [`issue 28`](http://github.com/uavos/apx-releases/issues/28))
+* Fail safe plugins loading
+
+### Documentation Changes
+* updates about translations
+* main window customization instructions
+
 ## [Version 10.2.75](https://github.com/uavos/apx-releases/releases/tag/10.2.75) (10/29/19)
 
 > Branch: `master`  

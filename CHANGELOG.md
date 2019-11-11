@@ -3,6 +3,25 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.147](https://github.com/uavos/apx-releases/releases/tag/10.2.147) (11/11/19)
+
+> Branch: `master`  
+Date: `11/11/19 15:50:23`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/58c663fea972e76894bff5cf74c1c15101998d94...ef17b39a6667debc903a5e348e9d07117c75c649)
+
+### New Features
+* qml plugins fullscreen window support
+* cam gimbal controls
+* option to disable tiles download (closes [`issue 76`](http://github.com/uavos/apx-releases/issues/76))
+
+### Bug Fixes
+* xhawk usb interface for loader and default IMU sensors
+* xhawk built-in magnetometer fix
+* mission old format import (closes [`issue 82`](http://github.com/uavos/apx-releases/issues/82))
+
+### Performance Enhancements
+* Qt 5.13.2 upgrade
+
 ## [Version 10.2.118](https://github.com/uavos/apx-releases/releases/tag/10.2.118) (10/31/19)
 
 > Branch: `master`  

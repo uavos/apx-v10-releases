@@ -3,6 +3,19 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.160](https://github.com/uavos/apx-releases/releases/tag/10.2.160) (11/13/19)
+
+> Branch: `master`  
+Date: `11/13/19 14:03:41`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/ef17b39a6667debc903a5e348e9d07117c75c649...e6bb64cdbbd1994a1b3415e5489864e864088085)
+
+### New Features
+* linux aplication installation
+* linux app release notes display on updates
+
+### Bug Fixes
+* linux gimbal mouse controls (closes [`issue 83`](http://github.com/uavos/apx-releases/issues/83))
+
 ## [Version 10.2.147](https://github.com/uavos/apx-releases/releases/tag/10.2.147) (11/11/19)
 
 > Branch: `master`  

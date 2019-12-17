@@ -3,6 +3,23 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.208](https://github.com/uavos/apx-releases/releases/tag/10.2.208) (12/17/19)
+
+> Branch: `master`  
+Date: `12/17/19 16:08:17`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/e6bb64cdbbd1994a1b3415e5489864e864088085...203121fbb824ee7a21cf562a8e80f8ce00c9bcdf)
+
+### Bug Fixes
+* menu popups z-order
+* db lookup text field for menus
+* travel path line width (closes [`issue 92`](http://github.com/uavos/apx-releases/issues/92))
+* travel distance online calculation (closes [`issue 91`](http://github.com/uavos/apx-releases/issues/91))
+* map view flick deceleration
+* user plugins loader fix (closes [`issue 88`](http://github.com/uavos/apx-releases/issues/88))
+
+### Performance Enhancements
+* Qt 5.14.0 upgrade
+
 ## [Version 10.2.160](https://github.com/uavos/apx-releases/releases/tag/10.2.160) (11/13/19)
 
 > Branch: `master`  

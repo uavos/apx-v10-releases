@@ -2,25 +2,33 @@
 <channel>
 <title>APX Ground Control</title>
 <item>
+<title>10.2.208</title>
+<pubDate>Tue, 17 Dec 2019 16:33:54 +0000</pubDate>
+<sparkle:minimumSystemVersion>10.8.0</sparkle:minimumSystemVersion>
+<enclosure length="96782155" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.208/APX_Ground_Control-10.2.208-macos-x86_64.dmg" sparkle:edSignature="G8ixJC/1xqFLthMOBpym5PDafStjlUJ6OFXWVkDzMdbja6lDo59OkYJBzZyGrg4sfCNSZXFgND5aGS32vHj1Ag==" sparkle:shortVersionString="10.2.208" sparkle:version="10.2.208" />
+<sparkle:deltas>
+<enclosure length="5924567" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.208/update_dmg-10.2.208-10.2.160.delta" sparkle:deltaFrom="10.2.160" sparkle:edSignature="k0EhgKkrB3HMfYmCsBUGJWNstsfGK7BqElODjRHyRie29fdOvzH1s4kg0kQ+nMOmDEU0H3MZVm9SE8vBmBh1AA==" sparkle:shortVersionString="10.2.208" sparkle:version="10.2.208" />
+<enclosure length="5940942" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.208/update_dmg-10.2.208-10.2.147.delta" sparkle:deltaFrom="10.2.147" sparkle:edSignature="Jgkeo48oe+6v3eClZgX4c9rlfRDcQWXeH7hLSh0I3q4XqWMVXyVMhr21d6n7jayOAuJE6j0ttowq0jX2GEWACA==" sparkle:shortVersionString="10.2.208" sparkle:version="10.2.208" />
+<enclosure length="6752139" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.208/update_dmg-10.2.208-10.2.118.delta" sparkle:deltaFrom="10.2.118" sparkle:edSignature="fB0gB1ym3gK1/PKmXnltbBxZMKuNZF75JstZSLfRXXSrpoR5zhmZ8wFy3RerfmrvpsVLtNsQfU5wFwDQg/auAg==" sparkle:shortVersionString="10.2.208" sparkle:version="10.2.208" /></sparkle:deltas>
+<sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.2.208.html</sparkle:releaseNotesLink></item>
+
+<item>
 <title>10.2.160</title>
-<pubDate>Wed, 13 Nov 2019 14:20:21 +0000</pubDate>
+<pubDate>Tue, 17 Dec 2019 16:34:00 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8.0</sparkle:minimumSystemVersion>
 <enclosure length="96990947" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.160/APX_Ground_Control-10.2.160-macos-x86_64.dmg" sparkle:edSignature="FDNK6TjEKyP4IctWeKtWfRJ1IewDRjSfvPpNxj9kmrHhyzH542Yc7ASedHgM8aUMYEv7uZ8Y8eCU0aH9UM4GBw==" sparkle:shortVersionString="10.2.160" sparkle:version="10.2.160" />
-<sparkle:deltas>
-<enclosure length="132203" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.160/update_dmg-10.2.160-10.2.147.delta" sparkle:deltaFrom="10.2.147" sparkle:edSignature="dHyQA8XigXjfH0mU1ef3dsXimg/wf7HZwLbMOnYdwjcm2afxlYbXhZoemP3IOThvwT9dgwa5YiNC38MXUSkvBg==" sparkle:shortVersionString="10.2.160" sparkle:version="10.2.160" />
-<enclosure length="2223965" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.160/update_dmg-10.2.160-10.2.118.delta" sparkle:deltaFrom="10.2.118" sparkle:edSignature="At9drTyyjXpJ6VRwXa12qqHAIgUwlfL4EAiTVOi9Hpp77eVKzyH/orOVcdxl3vuDUUZRchE8MhQ/O3Md9lg5DA==" sparkle:shortVersionString="10.2.160" sparkle:version="10.2.160" /></sparkle:deltas>
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.2.160.html</sparkle:releaseNotesLink></item>
 
 <item>
 <title>10.2.147</title>
-<pubDate>Wed, 13 Nov 2019 14:20:25 +0000</pubDate>
+<pubDate>Tue, 17 Dec 2019 16:33:58 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8.0</sparkle:minimumSystemVersion>
 <enclosure length="96959523" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.147/APX_Ground_Control-10.2.147-macos-x86_64.dmg" sparkle:edSignature="P+RTCAoLdzb4sFm3apXU1hLHsF/D99IUOTiyBGQdZ3QW/rYtG+r0x3Ngt3DNyh6TRpul/yqGvWhk1inQumoGBQ==" sparkle:shortVersionString="10.2.147" sparkle:version="10.2.147" />
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.2.147.html</sparkle:releaseNotesLink></item>
 
 <item>
 <title>10.2.118</title>
-<pubDate>Wed, 13 Nov 2019 14:20:23 +0000</pubDate>
+<pubDate>Tue, 17 Dec 2019 16:33:55 +0000</pubDate>
 <sparkle:minimumSystemVersion>10.8.0</sparkle:minimumSystemVersion>
 <enclosure length="97129435" type="application/octet-stream" url="https://github.com/uavos/apx-releases/releases/download/10.2.118/APX_Ground_Control-10.2.118-macos-x86_64.dmg" sparkle:edSignature="BCaEQMsP7GaxeDf9Xy37s9LmakqXbrzOtCgP9edyKILweLyuTwsMSkAUZR0HuuCSObnMz9Ad6Sb+61ahaB1FBg==" sparkle:shortVersionString="10.2.118" sparkle:version="10.2.118" />
 <sparkle:releaseNotesLink>https://uavos.github.io/apx-releases/notes/release-10.2.118.html</sparkle:releaseNotesLink></item>

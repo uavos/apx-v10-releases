@@ -3,6 +3,16 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.210](https://github.com/uavos/apx-releases/releases/tag/10.2.210) (12/18/19)
+
+> Branch: `master`  
+Date: `12/18/19 12:54:02`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/203121fbb824ee7a21cf562a8e80f8ce00c9bcdf...9abb1856a4d7c19d2a8f830f550b2f3c7333633b)
+
+### Bug Fixes
+* EFIS SVG rendering (closes [`issue 93`](http://github.com/uavos/apx-releases/issues/93))
+* FRAM error on NAV10 rev2
+
 ## [Version 10.2.208](https://github.com/uavos/apx-releases/releases/tag/10.2.208) (12/17/19)
 
 > Branch: `master`  

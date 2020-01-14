@@ -3,6 +3,17 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.235](https://github.com/uavos/apx-releases/releases/tag/10.2.235) (01/14/20)
+
+> Branch: `master`  
+Date: `01/14/20 12:53:03`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/9abb1856a4d7c19d2a8f830f550b2f3c7333633b...701906d66d84c894fdbf9c803dfbf320ba720bdb)
+
+### Bug Fixes
+* JSW node USB port loader lock fix
+* GCS JSW jsexec function
+* GCS crash on emty console history recall (closes [`issue 99`](http://github.com/uavos/apx-releases/issues/99))
+
 ## [Version 10.2.210](https://github.com/uavos/apx-releases/releases/tag/10.2.210) (12/18/19)
 
 > Branch: `master`  

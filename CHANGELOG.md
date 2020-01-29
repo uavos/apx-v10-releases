@@ -3,6 +3,20 @@
 All notable changes to **APX Software** will be documented in this file.  
 For more information refer to [docs.uavos.com](http://docs.uavos.com).
 
+## [Version 10.2.242](https://github.com/uavos/apx-releases/releases/tag/10.2.242) (01/29/20)
+
+> Branch: `master`  
+Date: `01/29/20 13:17:58`  
+Diff: [uavos/apx](https://github.com/uavos/apx/compare/701906d66d84c894fdbf9c803dfbf320ba720bdb...c3e13704aebd5571dd07965cdc1db25675f980f2)
+
+### Bug Fixes
+* video streaming
+
+### Comments
+**fix: video streaming**
+
+Relax requirements for video (avoiding some buggy videoservers)
+
 ## [Version 10.2.235](https://github.com/uavos/apx-releases/releases/tag/10.2.235) (01/14/20)
 
 > Branch: `master`  
